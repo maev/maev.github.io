@@ -1,9 +1,8 @@
 
 body{
- background:blue;
+ background-color:blue;
 }
 
 h1{
-text-style: bold;
-text-color: red;
+font-style: bold;
 }
